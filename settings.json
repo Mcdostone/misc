@@ -9,7 +9,7 @@
   "editor.renderWhitespace": "trailing",
   "editor.fontFamily": "'SF Mono', 'JetBrains Mono', 'Fira Code', 'Operator Mono Lig', monospace",
   "editor.fontLigatures": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 14,
   "editor.lineHeight": 28,
   //"workbench.colorTheme": "Tokyo Night",
   //"workbench.iconTheme": "material-icon-theme",
