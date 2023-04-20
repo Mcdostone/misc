@@ -7,7 +7,7 @@
   "workbench.tree.renderIndentGuides": "always",
   "editor.occurrencesHighlight": false, 
   "editor.renderWhitespace": "trailing",
-  "editor.fontFamily": "'JetBrains Mono', 'Fira Code', 'Operator Mono Lig', monospace",
+  "editor.fontFamily": "'SF Mono', 'JetBrains Mono', 'Fira Code', 'Operator Mono Lig', monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
   "editor.lineHeight": 28,
